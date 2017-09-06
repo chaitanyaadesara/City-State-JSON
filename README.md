@@ -1,2 +1,3 @@
 # City-State-JSON
-City to State Json file
+Indian City-State Json file.
+Anybody wants another country's Json contact me
